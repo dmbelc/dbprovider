@@ -1,4 +1,4 @@
-const {DbProvider} = require("../dbprovider");
+const {DbProvider} = require("../lib/dbprovider");
 
 const ConnectionDetails = {
     Pg: {
