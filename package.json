@@ -1,6 +1,6 @@
 {
   "name": "dbprovider",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Provides access to databases",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,7 @@
   "author": "Dmitriy Belchenko",
   "license": "ISC",
   "dependencies": {
+    "mysql2": "^2.3.3",
     "pg": "^8.8.0"
   }
 }
